@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+
+    <Version>0.1.0</Version>
+
+    <Authors>David Kubát</Authors>
+
+    <Product>Daves Reflection Utilities</Product>
+
+    <PackageLicenseExpression>BSD</PackageLicenseExpression>
+
+    <Description>Tests for DavesUtilities.Reflection library.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NUnit" Version="3.12.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.16.1" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DavesUtilities.Reflection\DavesUtilities.Reflection.csproj" />
+  </ItemGroup>
+
+</Project>
