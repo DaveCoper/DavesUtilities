@@ -9,6 +9,8 @@
     <RepositoryUrl>https://github.com/DaveCoper/DavesUtilities</RepositoryUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageLicenseExpression>BSD-3-Clause</PackageLicenseExpression>
+    <Copyright>Copyright (c) David Kubát 2020</Copyright>
+    <RepositoryType>GIT</RepositoryType>
   </PropertyGroup>
 
 </Project>

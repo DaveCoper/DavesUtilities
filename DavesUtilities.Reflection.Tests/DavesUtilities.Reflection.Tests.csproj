@@ -14,6 +14,14 @@
     <PackageLicenseExpression>BSD-3-Clause</PackageLicenseExpression>
 
     <Description>Tests for DavesUtilities.Reflection library.</Description>
+
+    <Copyright>Copyright (c) David Kubát 2020</Copyright>
+
+    <RepositoryType>GIT</RepositoryType>
+
+    <RepositoryUrl>https://github.com/DaveCoper/DavesUtilities</RepositoryUrl>
+
+    <PackageProjectUrl>https://github.com/DaveCoper/DavesUtilities</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
