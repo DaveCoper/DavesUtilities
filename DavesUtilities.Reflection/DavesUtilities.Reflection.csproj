@@ -8,7 +8,7 @@
     <PackageProjectUrl>https://github.com/DaveCoper/DavesUtilities</PackageProjectUrl>
     <RepositoryUrl>https://github.com/DaveCoper/DavesUtilities</RepositoryUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <PackageLicenseExpression>BSD</PackageLicenseExpression>
+    <PackageLicenseExpression>BSD-3-Clause</PackageLicenseExpression>
   </PropertyGroup>
 
 </Project>

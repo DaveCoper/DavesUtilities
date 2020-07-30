@@ -11,7 +11,7 @@
 
     <Product>Daves Reflection Utilities</Product>
 
-    <PackageLicenseExpression>BSD</PackageLicenseExpression>
+    <PackageLicenseExpression>BSD-3-Clause</PackageLicenseExpression>
 
     <Description>Tests for DavesUtilities.Reflection library.</Description>
   </PropertyGroup>
